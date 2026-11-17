@@ -2,7 +2,7 @@
 
 # Python Development Tasks
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-sharvan--m%2FPython_Beginner__tasks-blue?logo=github)](https://github.com/sharvan-m/Python_Beginner_tasks)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-sharvan--m%2FPython__tasks-blue?logo=github)](https://github.com/sharvan-m/Python_tasks)
 [![Language](https://img.shields.io/badge/Language-Python%203.x-blue?logo=python)](https://www.python.org/)
 [![Internship](https://img.shields.io/badge/Internship-Tasks%20Python-orange)](#-overview)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#-license)
@@ -78,7 +78,7 @@ A system automation script that automates moving files from an ingestion directo
 ## 📂 Repository Structure
 
 ```text
-Python_Beginner_Tasks/
+Python_Tasks/
 ├── p1.py              # Task 1: Hangman Word Guessing Game
 ├── p2.py              # Task 2: Stock Portfolio Investment Tracker
 ├── p3.py              # Task 3: Automated File Transfer Utility
@@ -95,8 +95,8 @@ Python_Beginner_Tasks/
 
 ### Clone and Run
 ```bash
-git clone https://github.com/sharvan-m/Python_Beginner_tasks.git
-cd Python_Beginner_tasks
+git clone https://github.com/sharvan-m/Python_tasks.git
+cd Python_tasks
 
 # Run any task directly:
 python p1.py
