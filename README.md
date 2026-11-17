@@ -1,13 +1,13 @@
 <div align="center">
 
-# Python Development Tasks
+# Python Programming & Automation Tasks
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sharvan--m%2FPython__tasks-blue?logo=github&logoColor=white)](https://github.com/sharvan-m/Python_tasks)
 [![Language](https://img.shields.io/badge/Language-Python%203.x-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20CLI%20Utilities-green)](#-overview)
+[![Focus](https://img.shields.io/badge/Focus-Automation%20%26%20CLI%20Tools-orange)](#-task-breakdown)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#-license)
 
-**A practical collection of standalone Python projects showcasing game development logic, financial tracking automation, and file-system manipulation.**
+**A collection of practical Python applications demonstrating game development logic, financial portfolio calculations, and automated file-system operations using Python's standard library.**
 
 [Overview](#-overview) • [Task Breakdown](#-task-breakdown) • [Project Details](#-project-details) • [Repository Structure](#-repository-structure) • [Execution Guide](#-execution-guide)
 
@@ -17,11 +17,11 @@
 
 ## 📖 Overview
 
-This repository contains clean, standalone Python utility applications. Each script demonstrates fundamental programming paradigms using the Python standard library with zero external dependency requirements:
+This repository contains clean, standalone Python utility applications engineered to demonstrate fundamental programming paradigms using the Python standard library with zero external dependency requirements:
 
 - **Interactive Control Flow & Game Loops (`p1.py`)**
 - **Dictionary Data Structures & File I/O (`p2.py`)**
-- **Operating System Automation & File Management (`p3.py`)**
+- **Operating System Automation & Batch File Processing (`p3.py`)**
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains clean, standalone Python utility applications. Each scr
 | Script | Project Title | Key Modules | Focus & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **`p1.py`** | **Hangman Word Guessing Game** | `random` | Interactive word guessing game with attempt tracking and dynamic masking |
-| **`p2.py`** | **Stock Portfolio Tracker** | Python Built-ins | Real-time portfolio valuation calculator with automated `portfolio.txt` report export |
+| **`p2.py`** | **Stock Portfolio Tracker** | Built-ins | Real-time portfolio valuation calculator with automated `portfolio.txt` report export |
 | **`p3.py`** | **Automated File Organizer** | `os`, `shutil` | Directory creation and safe batch file movement between directories |
 
 ---
@@ -66,8 +66,8 @@ A financial calculator that computes the aggregate monetary value of a user's st
 ### 📂 3. Automated File Transfer Utility (`p3.py`)
 A system automation script that automates moving files from an ingestion directory to a designated target location.
 - **Features:**
-  - Verifies and automatically initializes the destination directory if missing using `os.makedirs`.
-  - Iterates through source files and transfers them safely via `shutil.move`.
+  - Verifies and initializes the source and destination directories automatically if missing.
+  - Generates demo files if run in a fresh workspace, moving them safely via `shutil.move`.
 - **Run:**
   ```bash
   python p3.py
