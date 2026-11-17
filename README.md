@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-This repository contains clean, standalone Python utility applications engineered during the ** Python Development Internship**. Each script demonstrates fundamental programming paradigms using the Python standard library with zero external dependency requirements:
+This repository contains clean, standalone Python utility applications engineered during the ** Virtual Python Development Internship**. Each script demonstrates fundamental programming paradigms using the Python standard library with zero external dependency requirements:
 
 - **Interactive Control Flow & Game Loops (`p1.py`)**
 - **Dictionary Data Structures & File I/O (`p2.py`)**
