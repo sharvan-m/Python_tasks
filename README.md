@@ -1,6 +1,6 @@
 <div align="center">
 
-# CodeAlpha: Python Development Tasks
+# Python Development Tasks
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sharvan--m%2Fcodealpha__tasks-blue?logo=github)](https://github.com/sharvan-m/codealpha_tasks)
 [![Language](https://img.shields.io/badge/Language-Python%203.x-blue?logo=python)](https://www.python.org/)
