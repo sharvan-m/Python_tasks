@@ -2,12 +2,12 @@
 
 # Python Development Tasks
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-sharvan--m%2Fcodealpha__tasks-blue?logo=github)](https://github.com/sharvan-m/codealpha_tasks)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-sharvan--m%2FPython_Beginner__tasks-blue?logo=github)](https://github.com/sharvan-m/Python_Beginner_tasks)
 [![Language](https://img.shields.io/badge/Language-Python%203.x-blue?logo=python)](https://www.python.org/)
-[![Internship](https://img.shields.io/badge/Internship-CodeAlpha%20Python-orange)](#-overview)
+[![Internship](https://img.shields.io/badge/Internship-Tasks%20Python-orange)](#-overview)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#-license)
 
-**A practical collection of Python projects developed for the CodeAlpha Python Development Internship, showcasing game development logic, financial tracking automation, and file-system manipulation.**
+**A practical collection of Python projects developed for the Virtual Python Development Internship, showcasing game development logic, financial tracking automation, and file-system manipulation.**
 
 [Overview](#-overview) • [Task Breakdown](#-task-breakdown) • [Project Details](#-project-details) • [Repository Structure](#-repository-structure) • [Execution Guide](#-execution-guide)
 
@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-This repository contains clean, standalone Python utility applications engineered during the **CodeAlpha Python Development Internship**. Each script demonstrates fundamental programming paradigms using the Python standard library with zero external dependency requirements:
+This repository contains clean, standalone Python utility applications engineered during the ** Python Development Internship**. Each script demonstrates fundamental programming paradigms using the Python standard library with zero external dependency requirements:
 
 - **Interactive Control Flow & Game Loops (`p1.py`)**
 - **Dictionary Data Structures & File I/O (`p2.py`)**
@@ -78,7 +78,7 @@ A system automation script that automates moving files from an ingestion directo
 ## 📂 Repository Structure
 
 ```text
-codealpha_tasks/
+Python_Beginner_Tasks/
 ├── p1.py              # Task 1: Hangman Word Guessing Game
 ├── p2.py              # Task 2: Stock Portfolio Investment Tracker
 ├── p3.py              # Task 3: Automated File Transfer Utility
@@ -95,8 +95,8 @@ codealpha_tasks/
 
 ### Clone and Run
 ```bash
-git clone https://github.com/sharvan-m/codealpha_tasks.git
-cd codealpha_tasks
+git clone https://github.com/sharvan-m/Python_Beginner_tasks.git
+cd Python_Beginner_tasks
 
 # Run any task directly:
 python p1.py
@@ -110,4 +110,4 @@ python p3.py
 
 This repository is licensed under the [MIT License](LICENSE).
 
-*Developed as part of the CodeAlpha Python Development Internship by [Sharvan M](https://github.com/sharvan-m).*
+*Developed as part of the Virtual Python Development Internship by [Sharvan M](https://github.com/sharvan-m).*
